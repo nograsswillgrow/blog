@@ -20,7 +20,7 @@ paginate = 5
 [languages]
   [languages.en]
     title = "nograsswillgrow"
-    subtitle = "a blog by Joshua Grady"
+    subtitle = ""
     keywords = ""
     copyright = ""
     menuMore = "Show more"
@@ -28,7 +28,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "nograsswillgrow"
+      logoText = "nograsswillgrow - a blog by Joshua Grady"
       logoHomeLink = "/"
 
     [languages.en.menu]
