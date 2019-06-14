@@ -9,7 +9,7 @@ paginate = 5
   # ["orange", "blue", "red", "green", "pink"]
   themeColor = "green"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 2
+  showMenuItems = 3
   # set theme to full screen width
   fullWidthTheme = false
   # center theme with default width
@@ -22,7 +22,7 @@ paginate = 5
     title = "nograsswillgrow"
     subtitle = ""
     keywords = ""
-    copyright = ""
+    copyright = "plz don't steal content thx"
     menuMore = "Show more"
     readMore = "Read more"
     readOtherPosts = "Read other posts"
@@ -37,6 +37,13 @@ paginate = 5
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
+        identifier = "instagram"
+        name = "Instagram"
+        url = "https://www.instagram.com/nograsswillgrow/"
+      [[languages.en.menu.main]]
         identifier = "twitter"
         name = "Twitter"
         url = "https://twitter.com/nograsswillgrow"
+
+[author]
+    name = "Joshua Grady"

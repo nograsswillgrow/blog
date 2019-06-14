@@ -3,8 +3,12 @@ title = "About"
 date = "2019-06-14"
 +++
 
-Hi, my name is Joshua Grady. While I've been tinkering around with a basic static HTML website for a few years now, I wanted to setup a cleaner blog in which I could more cleanly push out content. My blog posts will generally be tech-related with a likely emphasis on Apple's ecosystem and products.
+# 👋🏻
 
-I've been using the name "nograsswillgrow" across the Internet for as long as I can remember, and since I'm terrible at naming things, I decided to make it the name for my blog as well. At least for now.
+My name is Joshua Grady.
 
-This site is hosted via [GitHub Pages](https://pages.github.com).
+While this website has actually been around for a few years now, I've been using it almost exclusively as a way to tinker with basic web development. However, thanks to a recent urge to start writing, I decided to repurpose it into a blog. Most of the topics here will be related to tech with an emphasis on the experience of using primarily Apple products.
+
+I've been using the name **nograsswillgrow** across the Internet for as long as I can remember, and since I'm terrible at naming new things, I decided to make it the name for my blog as well. At least _for now_.
+
+This site was made with [Hugo](http://gohugo.io/) and is hosted using [GitHub Pages](https://pages.github.com). The theme was designed by [panr](https://twitter.com/panr).

@@ -1,11 +1,11 @@
 +++
 title = "Upgrade All the Things"
-date = "2019-06-14"
+date = "2019-04-04"
 author = ""
 cover = ""
-tags = ["apple", "razer", "windows"]
+tags = ["Apple", "Razer", "Windows", "Android"]
 description = ""
-showFullContent = false
+showFullContent = true
 +++
 
 I’ve enjoyed getting my hands on new tech for as long as I can remember. Even when I was too young to understand which products had good specs or features, trying out new tech was always something I looked forward to. Though this did result in more than one [netbook](https://en.wikipedia.org/wiki/Netbook) purchase when I was a teenager. Though I do like to try new things and tinker, I’ve consciously been trying to buy tech than I plan on keeping long-term. This resulted in a purchase of a 2015 13-inch MacBook Pro that I used for several years, and after ditching Android back in 2017, I used an iPhone SE for a while before settling into an iPhone 7 early last year. Sticking with these older products was partially an attempt to be a financially responsible adult. That’s what I told myself at least.
@@ -39,5 +39,3 @@ All that said, I’m still trying my best to stay invested other ecosystems in s
 However, when it comes to basic hardware and software integration, I’ve determined that what Apple offers at this time works best for my workflow. Giving both Android and Windows another try quickly reminded me of the limitations that often come with more flexible platforms, and though there’s still plenty of valid criticism regarding Apple as a company, I have yet to replicate the experience of using Apple’s ecosystem with any other combination of hardware I’ve tried so far. Of course, this is something that could change at any time. Though I’m not jumping to make any other large tech purchases at the moment, maybe I can use this blog post as a reminder when I get that inevitable urge to buy new tech again in the future.
 
 In the meantime, I’ll be trying to find some good uses for the iPad while reselling all of the other devices mentioned here. My fingers are crossed that the repair process with Razer goes smoothly, [though I have my concerns](https://www.reddit.com/r/razer/search?q=support%20experience&restrict_sr=1).
-
-_Originally shared via my old site on April 4th, 2019._

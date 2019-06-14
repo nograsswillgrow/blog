@@ -1,11 +1,11 @@
 +++
 title = "Switching to Overcast"
-date = "2019-06-14"
+date = "2019-04-17"
 author = ""
 cover = ""
-tags = ["podcasts", "overcast", "pocket casts"]
+tags = ["Podcasts", "Overcast", "Pocket Casts"]
 description = ""
-showFullContent = false
+showFullContent = true
 +++
 
 Podcasts are kind of a big deal now. I’ve been an off-and-on podcast listener for a few years, but over the last few months, I’ve really started to dive into more and more shows. Thanks to podcast networks like [Relay FM](https://www.relay.fm) and long-running shows like [Binge Mode](https://www.theringer.com/binge-mode), I often listen to multiple podcasts about all sorts of topics every single day.
@@ -18,13 +18,13 @@ Now that I’ve fully returned to using Apple devices for the foreseeable future
 
 Not to my surprise, Overcast is an incredible app, and nearly every issue I was experiencing with Pocket Casts was resolved when switching over. Though design is an incredibly subjective topic, I love the way Overcasts looks and functions. Using a card-based design to switch from artwork to show notes, chapters, and even playback settings is wonderful to use. I’m also not a huge fan of the color orange, so dark mode with a clean ocean-like shade of blue looks incredible. And you can’t forget the custom icon to match.
 
-----
+---
 
-<center>![Overcast](/overcast.png)
+<center>![Overcast](/images/overcast.png)
 
 _Two of my current favorite podcasts: [AppStories](https://appstories.net) and [Connected](https://www.relay.fm/connected)_</center>
 
-----
+---
 
 Listening to episodes is also a pleasure thanks to a mix of manual playback speed options and a “smart speed” feature that assists with removing moments of silence. Of course, you can also configure custom playback options for each podcast in your library if preferred. Pocket Casts offers similar functionality in regards to removing silence, but Overcast’s implementation of this feature is noticeably better in the podcasts that I usually listen to.
 
@@ -35,5 +35,3 @@ Though I’m thoroughly enjoying Overcast, there are still some features from Po
 There’s also a ton of work that could be done to the web experience with Overcast. While I listen to most podcasts on my iPhone, I do spend a lot of time at my desk for my job. Thus, while I can continue playback using Overcast’s web client, playback at a 1.5x speed sounds odd and tinny. There’s also no simple way to locate the episode of the podcast you were last listening to without locating the episode manually inside the specific podcast. And although Pocket Casts macOS app was essentially their web player [wrapped in Electron](https://www.theverge.com/circuitbreaker/2018/5/16/17361696/chrome-os-electron-desktop-applications-apple-microsoft-google) with media key functionality, I would absolutely pay for a native Overcast app for macOS. Perhaps this could happen later this year thanks to [Marzipan](https://www.imore.com/marzipan).
 
 I’ve only been using Overcast for around a week now, and while there’s definitely a few features I miss from Pocket Casts, I’m definitely not going back. Overcast provides solid functionality for playback mixed with a clean design, and I’ve already settled in with a premium subscription. Here’s to many, many more podcasts.
-
-_Originally shared via my old site on April 17th, 2019._
