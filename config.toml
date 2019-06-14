@@ -28,7 +28,7 @@ paginate = 5
     readOtherPosts = "Read other posts"
 
     [languages.en.params.logo]
-      logoText = "nograsswillgrow - a blog by Joshua Grady"
+      logoText = "nograsswillgrow — a blog by Joshua Grady"
       logoHomeLink = "/"
 
     [languages.en.menu]
@@ -36,3 +36,7 @@ paginate = 5
         identifier = "about"
         name = "About"
         url = "/about"
+      [[languages.en.menu.main]]
+        identifier = "twitter"
+        name = "Twitter"
+        url = "https://twitter.com/nograsswillgrow"
