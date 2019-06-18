@@ -10,4 +10,6 @@ While this website has actually been around for a few years now, I've been using
 
 I've been using the name **nograsswillgrow** across the Internet for as long as I can remember, and since I'm terrible at naming new things, I decided to make it the name for my blog as well. At least _for now_.
 
-This site was made with [Hugo](http://gohugo.io/) and is hosted using [GitHub Pages](https://pages.github.com). The theme was designed by [panr](https://twitter.com/panr). This entire blog is essentially work in progress until forever.
+I'll probably break this blog regularly since I don't always know what I'm doing.
+
+Hosted via [https://www.netlify.com](Netlify).
