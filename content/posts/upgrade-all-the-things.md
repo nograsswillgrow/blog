@@ -1,11 +1,11 @@
 +++
 title = "Upgrade All the Things"
 date = "2019-04-04"
-author = ""
+author = "Joshua Grady"
 cover = ""
 tags = ["Apple", "Razer", "Windows", "Android"]
-description = ""
-showFullContent = true
+description = "I’ve enjoyed getting my hands on new tech for as long as I can remember. Even when I was too young to understand which products had good specs or features, trying out new tech was always something I looked forward to. Though this did result in more than one [netbook](https://en.wikipedia.org/wiki/Netbook) purchase when I was a teenager. Though I do like to try new things and tinker, I’ve consciously been trying to buy tech than I plan on keeping long-term. This resulted in a purchase of a 2015 13-inch MacBook Pro that I used for several years, and after ditching Android back in 2017, I used an iPhone SE for a while before settling into an iPhone 7 early last year. Sticking with these older products was partially an attempt to be a financially responsible adult. That’s what I told myself at least."
+showFullContent = false
 +++
 
 I’ve enjoyed getting my hands on new tech for as long as I can remember. Even when I was too young to understand which products had good specs or features, trying out new tech was always something I looked forward to. Though this did result in more than one [netbook](https://en.wikipedia.org/wiki/Netbook) purchase when I was a teenager. Though I do like to try new things and tinker, I’ve consciously been trying to buy tech than I plan on keeping long-term. This resulted in a purchase of a 2015 13-inch MacBook Pro that I used for several years, and after ditching Android back in 2017, I used an iPhone SE for a while before settling into an iPhone 7 early last year. Sticking with these older products was partially an attempt to be a financially responsible adult. That’s what I told myself at least.

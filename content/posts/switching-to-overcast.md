@@ -1,11 +1,10 @@
 +++
 title = "Switching to Overcast"
 date = "2019-04-17"
-author = ""
+author = "Joshua Grady"
 cover = ""
 tags = ["Podcasts", "Overcast", "Pocket Casts"]
-description = ""
-showFullContent = true
+description = "Podcasts are kind of a big deal now. I’ve been an off-and-on podcast listener for a few years, but over the last few months, I’ve really started to dive into more and more shows. Thanks to podcast networks like [Relay FM](https://www.relay.fm) and long-running shows like [Binge Mode](https://www.theringer.com/binge-mode), I often listen to multiple podcasts about all sorts of topics every single day."
 +++
 
 Podcasts are kind of a big deal now. I’ve been an off-and-on podcast listener for a few years, but over the last few months, I’ve really started to dive into more and more shows. Thanks to podcast networks like [Relay FM](https://www.relay.fm) and long-running shows like [Binge Mode](https://www.theringer.com/binge-mode), I often listen to multiple podcasts about all sorts of topics every single day.
