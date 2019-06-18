@@ -12,4 +12,4 @@ I've been using the name **nograsswillgrow** across the Internet for as long as 
 
 I'll probably break this blog regularly since I don't always know what I'm doing.
 
-Hosted via [https://www.netlify.com](Netlify).
+Hosted via [Netlify](https://www.netlify.com).
