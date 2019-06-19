@@ -12,4 +12,4 @@ I've been using the name **nograsswillgrow** across the Internet for as long as 
 
 I'll probably break this blog regularly since I don't always know what I'm doing.
 
-Hosted via [Netlify](https://www.netlify.com).
+Powered by [Hugo](https://gohugo.io/) with the [Hello Friend](https://themes.gohugo.io/hugo-theme-hello-friend/) theme. Hosted via [Netlify](https://www.netlify.com).
