@@ -1,6 +1,6 @@
 +++
 title = "Switching to Overcast"
-date = "2019-04-17"
+date = 2019-04-17
 author = "Joshua Grady"
 cover = ""
 tags = ["Podcasts", "Overcast", "Pocket Casts"]
