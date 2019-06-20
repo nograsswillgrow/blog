@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nograsswillgrow</title>
+    <link>https://nograsswillgrow.com/</link>
+    <description>Recent content on nograsswillgrow</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <managingEditor>joshuagrady@fastmail.com (Joshua Grady)</managingEditor>
+    <webMaster>joshuagrady@fastmail.com (Joshua Grady)</webMaster>
+    <copyright>© 2019 Joshua Grady</copyright>
+    <lastBuildDate>Fri, 14 Jun 2019 20:00:00 -0400</lastBuildDate>
+    
+        <atom:link href="https://nograsswillgrow.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>WWDC 2019</title>
+      <link>https://nograsswillgrow.com/posts/wwdc-2019/</link>
+      <pubDate>Fri, 14 Jun 2019 20:00:00 -0400</pubDate>
+      <author>joshuagrady@fastmail.com (Joshua Grady)</author>
+      <guid>https://nograsswillgrow.com/posts/wwdc-2019/</guid>
+      <description>&lt;p&gt;I’m a &lt;em&gt;long&lt;/em&gt; shot from being any kind of developer, but I do love to follow the advancements in new features that tech giants implement into their operating systems. As a long-time Android user before moving to iOS a few years ago, I’ve watched Google IO for many years now, but I only casually followed previous WWDC events.&lt;/p&gt;
+
+&lt;p&gt;This year was potentially my first time watching an entire WWDC entire keynote, and what a year it was to start. I could barely keep up with the pace of the announcements, and from the media coverage of the event over last week, this was a common theme. Especially for those who were actually at the conference.&lt;/p&gt;
+
+&lt;p&gt;Due to my job, I rely on device stability to ensure that I can be contacted at any time, so I don’t currently plan to test out any macOS or iOS betas. However, there are so many new features I cannot wait to try in stable release.&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;iPadOS&lt;/strong&gt; - I&amp;rsquo;ve recently started to use my 6th-gen iPad for very specific work-related tasks. Paired with a Magic Keyboard, I&amp;rsquo;ve found that the &amp;ldquo;limitations&amp;rdquo; of working in iOS often help to keep me focussed on a specific task. Thanks to iPadOS, bringing my iPad along to act as a primary computing device will become even more feasible. Desktop Safari with a download manager, split view options within single app, better file management features, and so much more are right around the corner.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Catalyst&lt;/strong&gt; - Previously known across the Internet as Marzipan, this provides developers with a method to bring their iPad apps over to the Mac. I&amp;rsquo;ve referenced this in &lt;a href=&#34;https://nograsswillgrow.com/posts/switching-to-overcast/&#34;&gt;a previous post about podcasts&lt;/a&gt;, as I&amp;rsquo;d love to have Overcast on my MacBook Pro. There are tons of great iPad apps that I think macOS could really benefit from, assuming the developers take the proper steps to ensure their app &lt;em&gt;feels&lt;/em&gt; like a Mac app.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Dark Mode&lt;/strong&gt; - While I&amp;rsquo;ve been enjoying this in Mojave over the last year, I&amp;rsquo;m excited that this is officially coming to iOS as well. I use a dark theme in almost every app that offers it, so having this at a system level will only make things better. I also can&amp;rsquo;t wait for the ability to switch between light and dark mode at sunrise and sunset, as this seemed like a clear oversight with the implementation offered in macOS. This addition seemed to have a big influence on the theme&lt;sup class=&#34;footnote-ref&#34; id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; of the whole conference this year.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sidecar&lt;/strong&gt; - I&amp;rsquo;ve been using a &lt;a href=&#34;https://lunadisplay.com&#34;&gt;Luna Display&lt;/a&gt; for a while now, and as someone who often ends up working away from home, it&amp;rsquo;s incredibly useful to have a second screen to work with anytime I need it. However, it drains my MacBook Pro battery very quickly, so having a native feature that replicates this functionality is something I&amp;rsquo;ll be trying day one. It&amp;rsquo;s also appears to be &lt;a href=&#34;https://www.youtube.com/watch?v=9y1mGJqmtNA&#34;&gt;buttery smooth&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;CarPlay&lt;/strong&gt; - Outside of a whole design overhaul for how CarPlay will look in iOS 13, CarPlay will finally support allowing an app to run on the car&amp;rsquo;s display without requiring the same app to be open on the iPhone&amp;rsquo;s display. This means I will finally be able to leave Maps displayed at all times while having Spotify open on my iPhone for better music navigation (only when parked &lt;em&gt;of course&lt;/em&gt;).&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Look Around in Maps&lt;/strong&gt; - I still keep Google Maps on my iPhone as a backup for certain features that Apple Maps just doesn&amp;rsquo;t have, such as location sharing with non-iPhone users such as my wife. However, Look Around is one more feature that will allow me to continue moving away from Google Maps entirely.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Sign in with Apple&lt;/strong&gt; - Though there appears to be some debate in &lt;a href=&#34;https://www.theverge.com/2019/6/12/18662594/google-login-apple-sso-account-security-passwords-mark-risher&#34;&gt;some of the points Apple was suggesting&lt;/a&gt; in their announcement of this feature, the ability to sign into an app and provide a randomized email address that can be revoked if abused is spectacular. &lt;a href=&#34;https://www.macrumors.com/2019/06/03/sign-in-with-apple-required-as-sign-in-option/&#34;&gt;Requiring many app developers to implement this&lt;/a&gt; may be another discussion entirely.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Find My App&lt;/strong&gt; - This announcement was next-level. Due to the sheer number of Apple devices out in the world, having them all work together to create a network for locating lost devices is incredible. It&amp;rsquo;s even more impressive that this can work even when Wi-Fi happens to be disabled on the misplaced or potentially stolen device. I also hope I &lt;em&gt;never&lt;/em&gt; have to use this.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Shortcuts and Automation&lt;/strong&gt; - I&amp;rsquo;m still a Shortcuts noob, but even I could come up with some handy new functionality to take advantage some of the new features, especially related to automation. Coming as a system app should really open up some possibilities that weren&amp;rsquo;t available before.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Keyboard Swiping in iOS&lt;/strong&gt; - It&amp;rsquo;s about damn time.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Controller Support in iOS&lt;/strong&gt; - See above.&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Miscellaneous iOS Changes&lt;/strong&gt; - You can now change your Wi-Fi network from Control Center. You can also now remove restrictions when downloading large apps over a cellular connection. You can also see your screen when adjusting the volume. How neat.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;I&amp;rsquo;m sure I&amp;rsquo;m still missing several other features I&amp;rsquo;ll be excited to try this fall. I also didn&amp;rsquo;t even begin to touch on other big announcements like the new Mac Pro and Swift UI. After watching all of these announcements from home, the idea of attending one of these conferences in the future is pretty enticing. The energy was tangible, especially with how packed this event was.&lt;/p&gt;
+
+&lt;p&gt;Just don&amp;rsquo;t talk about the monitor stand. Please.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34;&gt;
+
+&lt;hr /&gt;
+
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;Speaking of the theme, all credit to Apple for the lovely cover art.
+ &lt;a class=&#34;footnote-return&#34; href=&#34;#fnref:1&#34;&gt;&lt;sup&gt;[return]&lt;/sup&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Switching to Overcast</title>
+      <link>https://nograsswillgrow.com/posts/switching-to-overcast/</link>
+      <pubDate>Wed, 17 Apr 2019 00:00:00 -0400</pubDate>
+      <author>joshuagrady@fastmail.com (Joshua Grady)</author>
+      <guid>https://nograsswillgrow.com/posts/switching-to-overcast/</guid>
+      <description>&lt;p&gt;Podcasts are kind of a big deal nowadays. I’ve been an off-and-on podcast listener for a few years, but over the last few months, I’ve really started to dive into more and more shows. Thanks to podcast networks like &lt;a href=&#34;https://www.relay.fm&#34;&gt;Relay FM&lt;/a&gt; and long-running shows like &lt;a href=&#34;https://www.theringer.com/binge-mode&#34;&gt;Binge Mode&lt;/a&gt;, I regularly listen to multiple podcasts on a variety of topics every day.&lt;/p&gt;
+
+&lt;p&gt;Though built-in apps such as Apple’s Podcasts app are completely functional, they often lack certain features that I appreciate when listening to podcasts related to things such as support for smart speed adjustments, clip sharing, and cross-platform progress syncing. For several years now, I’ve used &lt;a href=&#34;https://www.pocketcasts.com&#34;&gt;Pocket Casts&lt;/a&gt; as my primary app for listening to podcasts across the many devices that I&amp;rsquo;ve used. Pocket Casts has followed me from Android to iOS (and briefly back to Android then ultimately back to iOS again), along with occasional playback with their web player and desktop apps.&lt;/p&gt;
+
+&lt;p&gt;Their system of episode and playback syncing worked usually &lt;em&gt;well enough&lt;/em&gt; for me, though not without issues. Switching devices was always iffy in regards to syncing my overall progress within individual shows, especially those with a long list of unplayed episodes. Considering there weren’t a ton of great alternatives that worked across both Android and iOS, Pocket Casts always seemed like the clear choice.&lt;/p&gt;
+
+&lt;p&gt;Now that I’ve fully returned to using Apple devices for the foreseeable future, I started to hear more and more about an app called &lt;a href=&#34;https://overcast.fm&#34;&gt;Overcast&lt;/a&gt;. There was nothing but praise for this app from many of the hosts over at Relay FM, and considering the overall instability with Pocket Casts since its &lt;a href=&#34;https://blog.pocketcasts.com/pocket-casts-7/&#34;&gt;Version 7 update&lt;/a&gt;, I decided to give it a shot.&lt;/p&gt;
+
+&lt;p&gt;Not to my surprise, Overcast is an incredible app, and nearly every issue I was experiencing with Pocket Casts was resolved when switching over. Though design is an incredibly subjective topic, I love the way Overcasts looks and functions. Using a card-based design to switch from artwork to show notes, chapters, and even playback settings is wonderful to use. Unfortunately, I&amp;rsquo;m not a huge fan of the color orange, so dark mode with a clean ocean-like shade of blue looks incredible. And there&amp;rsquo;s even a custom icon to match.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;&lt;center&gt;&lt;img src=&#34;https://nograsswillgrow.com/images/overcast.png&#34; alt=&#34;Overcast&#34; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Two of my current favorite podcasts: &lt;a href=&#34;https://appstories.net&#34;&gt;AppStories&lt;/a&gt; and &lt;a href=&#34;https://www.relay.fm/connected&#34;&gt;Connected&lt;/a&gt;&lt;/em&gt;&lt;/center&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;Listening to episodes is also a pleasure thanks to a mix of manual playback speed options and a “smart speed” feature that assists with removing moments of silence. Of course, you can also configure custom playback options for each podcast in your library if preferred. Pocket Casts offers similar functionality in regards to removing silence, but Overcast’s implementation of this feature is noticeably better in the podcasts that I usually listen to.&lt;/p&gt;
+
+&lt;p&gt;I’ve also had great luck with syncing progress across both my iPhone and iPad, which was extremely hit-or-miss in the recent updates for Pocket Casts. Considering that I often switch from one device to another randomly throughout any given day, having this feature work reliably is something I thoroughly appreciate. Proper Siri Shortcuts support has also been wonderful, as this functionality rarely worked as expected with Pocket Casts. Since spring is finally rolling around, I’ve been taking lots of walks with my dog, so asking Siri to play episode of any podcast or to skip a specific chapter in an episode is convenient when I’m not always able to grab my phone.&lt;/p&gt;
+
+&lt;p&gt;Though I’m thoroughly enjoying Overcast, there are still some features from Pocket Casts that I’ve been missing. For example, Pocket Casts recently implemented the ability to archive episodes. This is a separate process from marking an episode as played, and it allowed for episodes to be removed from the episode list without appearing to have been listened to. This kept my listening history a lot cleaner by preventing episodes that I never played from showing up. Speaking of listening history, Overcast also doesn’t seem to currently offer a way to view a total list of all episodes you’ve ever listened to, and this was useful from time to time in Pocket Casts.&lt;/p&gt;
+
+&lt;p&gt;There’s also a ton of work that could be done to the web experience with Overcast. While I listen to most podcasts on my iPhone, I do spend a lot of time at my desk for my job. Thus, while I can continue playback using Overcast’s web client, playback at 1.5x speed sounds odd and tinny. There’s also no simple way to locate the episode of the podcast you were last listening to without locating it manually inside said podcast. And although Pocket Casts macOS app was essentially their web player &lt;a href=&#34;https://www.theverge.com/circuitbreaker/2018/5/16/17361696/chrome-os-electron-desktop-applications-apple-microsoft-google&#34;&gt;wrapped in Electron&lt;/a&gt; with media key functionality, I would absolutely pay for a native Overcast app for macOS. Perhaps this could happen later this year thanks to &lt;a href=&#34;https://www.imore.com/marzipan&#34;&gt;Marzipan&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I’ve only been using Overcast for around a week now, and while there’s definitely a few features I miss from Pocket Casts, I’m definitely not going back. Overcast provides solid functionality for playback mixed with a clean design, and I’ve already settled in with a premium subscription. Here’s to many, many more podcasts.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Upgrade All the Things</title>
+      <link>https://nograsswillgrow.com/posts/upgrade-all-the-things/</link>
+      <pubDate>Thu, 04 Apr 2019 00:00:00 -0400</pubDate>
+      <author>joshuagrady@fastmail.com (Joshua Grady)</author>
+      <guid>https://nograsswillgrow.com/posts/upgrade-all-the-things/</guid>
+      <description>&lt;p&gt;I’ve enjoyed getting my hands on new tech for as long as I can remember. Even when I was too young to understand which products had good specs or features, trying out new tech was always something I looked forward to. Though this did result in more than one &lt;a href=&#34;https://en.wikipedia.org/wiki/Netbook&#34;&gt;netbook&lt;/a&gt; purchase when I was a teenager. Though I do like to try new things and tinker, I’ve consciously been trying to buy tech than I plan on keeping long-term. This resulted in a purchase of a 2015 13-inch MacBook Pro that I used for several years, and after ditching Android back in 2017, I used an iPhone SE for a while before settling into an iPhone 7 early last year. Sticking with these older products was partially an attempt to be a financially responsible adult. That’s what I told myself at least.&lt;/p&gt;
+
+&lt;p&gt;The truth is I tried a few different laptops and phones over the last couple of years and never could settle for anything new that offered the same experience I’d grown accustomed to with having both an Apple laptop and smartphone. Some of my attempted purchases ranged from a Dell G Series gaming laptop to some higher end laptops from Razer. I also tried a few smartphones from Samsung’s Galaxy line, but I never could comfortably readjust to using Android. Or Windows for that matter.&lt;/p&gt;
+
+&lt;p&gt;Thanks to a failing battery in my laptop, along with a crack in my iPhone thanks to &lt;a href=&#34;https://www.instagram.com/p/BYoWps6nzcj/&#34;&gt;my dog&lt;/a&gt;, I started to get that itch to totally overhaul my everyday tech. This was dangerous considering some of the deep discounts being offered on some of last year’s products. After a ton of browsing and shopping around for deals, I drove to my local Best Buy and purchased these products:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;2018 Razer Blade 15 (Advanced)&lt;/li&gt;
+&lt;li&gt;Samsung Galaxy S9 (Unlocked)&lt;/li&gt;
+&lt;li&gt;9.7-inch iPad (6th-gen)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Though this was probably overkill in hindsight, I had a plan for each product. If my previously attempted purchases didn’t give it away, I wanted to dabble with PC gaming. My Steam library is pretty large for someone who still has never owned a proper gaming PC, and I wanted to work my way through some of those titles. The Blade 15 would be more than enough power for what I wanted to do, and extra perks like a 144Hz display with thin bezels and a MacBook-esque design won me over. Plus, who doesn’t want RGB on their laptops? With the Galaxy S9, there was definitely more competition. Other options like the Pixel 3 and even the Razer Phone 2 were appealing for different reasons, but unique features like &lt;a href=&#34;https://www.androidcentral.com/samsung-pay&#34;&gt;Samsung Pay&lt;/a&gt; and Samsung’s new &lt;a href=&#34;https://www.samsung.com/us/apps/one-ui/&#34;&gt;One UI&lt;/a&gt; were enough for me to give another Samsung device a shot. Finally, I didn’t want to retire from using any Apple products, so I decided to pick up an iPad as well. Sure, it’s not the futuristic new iPad Pro, but it was a perfect way to keep playing with iOS. Plus, I’ll be traveling quite a bit over the upcoming year as my wife finishes up vet school, so the iPad could act as a secondary display while I’m away from my home office.&lt;/p&gt;
+
+&lt;p&gt;I also put quite a bit of thought into moving away from a single ecosystem with these purchases. Having these specific devices would allow me to tinker with the latest operating systems and features from Microsoft, Google, and Apple. There’s certainly some appeal in attempting to be OS “agnostic” and using products from different manufacturers, and I wanted to really wanted to give this concept a fair shot. Unfortunately, while this all sounded good in theory, things didn’t work out as smoothly as I was hoping. It didn’t take a lot of time before realizing that trying to streamline even basic functionality between these three devices would be a challenge.&lt;/p&gt;
+
+&lt;p&gt;I quickly ran into several annoyances while using each device’s built-in apps with my email provider &lt;a href=&#34;https://www.fastmail.com/&#34;&gt;FastMail&lt;/a&gt;. While I was able to get email, calendar, and contacts synced on my iPad with a simple &lt;a href=&#34;https://www.fastmail.com/help/clients/iphone.html&#34;&gt;configuration profile&lt;/a&gt;, this was not nearly as streamlined on the other devices. Since Android nor Windows has true native support for CalDAV or CardDAV, I had to use &lt;a href=&#34;https://www.davx5.com&#34;&gt;third-party apps&lt;/a&gt; and &lt;a href=&#34;https://www.ctrl.blog/entry/how-to-win10-webdav-syncengine&#34;&gt;strange workarounds&lt;/a&gt; just to get my contacts and calendars synced up. I also ran into issues with the stock Samsung and Windows email apps where my messages simply wouldn’t sync properly when marked as read, archived, or deleted from other devices. Synchronizing calendar event reminders also didn’t work properly, and since I rely on these notifications with keeping up with both personal and work responsibilities, it was frustrating to get notified at seemingly random times across different devices for my events.&lt;/p&gt;
+
+&lt;p&gt;Sure, a lot of these issues are pretty minor, but with being pretty integrated in FastMail, I didn’t want to hop back over to Google just for syncing my contacts and calendar. Third-party software was also an option, but after coming from the reliable built-in apps on Apple’s devices, I wanted to stick with apps that were integrated into whatever operating system I was using. Other concerns also came up with these products; some of which were just related to the operating systems while others were device specific. For whatever reason, Samsung decided to offer &lt;a href=&#34;https://www.pcmag.com/news/359372/mcafee-samsung-partner-on-built-in-security-vpn-for-galaxy&#34;&gt;McAfee-branded&lt;/a&gt; security and optimization features right in the Settings app of recent Galaxy devices. Windows 10 clutters up the Start menu with app suggestions somewhat forces the use of Bing search. I even gave Bixby a fair shot on my S9, and it really wasn’t especially useful during my testing, especially with how reliable Google Assistant already is. I also ran into odd issues with the Blade when trying to use &lt;a href=&#34;https://www.duetdisplay.com&#34;&gt;Duet Display&lt;/a&gt; on the iPad that left me scratching my head and forced me to wipe and reinstall my GPU drivers.&lt;/p&gt;
+
+&lt;p&gt;Since most of these issues weren’t causing deal breaker levels of frustration, I decided to stick with my purchases and continue using each device anyway. Unfortunately, while I was still trying to work out some of these quirks, the Blade started to demonstrate some odd hardware issues in the form of random &lt;a href=&#34;https://en.wikipedia.org/wiki/Blue_Screen_of_Death&#34;&gt;stop errors&lt;/a&gt; when the device was idle. This essentially eliminated my ability to use the laptop as a reliable home server in any way, especially since it would display a BSOD every time it was left idle for an hour or more. After trying to take the laptop back to Best Buy right outside of their return window, I contacted Razer to arrange a repair and realized I was just about done with this whole experiment. With the mix of operating system issues and hardware reliability concerns, I turned around and picked up a 2018 15-inch MacBook Pro and an iPhone XR.&lt;/p&gt;
+
+&lt;p&gt;Trust me, this wasn’t my original intention. I planned on living with these products while continuing to work around their quirks, but adding unstable hardware into the mix wasn’t going to cut it. After some digging, Razer seems to have a history of laptop hardware issues, and considering I need a reliable computer for &lt;a href=&#34;https://swappa.com/about&#34;&gt;my job&lt;/a&gt;, I decided to go back to what I was familiar with in a MacBook Pro. I’m sure I could have found another Windows laptop from a more reputable manufacturer like Dell with their XPS line, but none of those options appealed to me like the Blade did. The mix of gaming performance and design just wasn’t something I could find elsewhere. Especially with a 144Hz display.&lt;/p&gt;
+
+&lt;p&gt;Picking up an iPhone XR was a bit of a gamble for me. I didn’t want a larger smartphone considering how perfect the iPhone 7 fit in my hand, but I also didn’t want to drop the extra cash on iPhone XS just for a smaller device. There was also the option of picking up last year’s iPhone X, but it was still a bit more expensive than I preferred. It wasn’t fun dropping $750 on a smartphone, but the XR checked enough boxes and was the easiest route back into Apple’s world without settling for an even older device.&lt;/p&gt;
+
+&lt;p&gt;So that’s where I’m at now. Readjusting to Apple’s infamous ecosystem with updated hardware. I’m aware there are some concerns and downsides with these specific purchases. For example, the keyboards on newer MacBooks are &lt;a href=&#34;https://www.wsj.com/graphics/apple-still-hasnt-fixed-its-macbook-keyboard-problem/&#34;&gt;still failing at a high rate&lt;/a&gt;, Face ID on the XR always reliable even in this second iteration, and dongles are all but required with the limited port selection on newer MacBooks. But for whatever reason, I don’t mind. I don’t mind the drop in graphical performance with this laptop. I don’t mind losing a fingerprint reader on my phone. These products all just work incredibly well together.&lt;/p&gt;
+
+&lt;p&gt;All that said, I’m still trying my best to stay invested other ecosystems in smaller ways when I can. My Chromecast performs well enough where I couldn’t justify an Apple TV purchase anytime soon, and modern smartwatches really don’t appeal to me &lt;a href=&#34;https://www.engadget.com/2016/12/07/fitbit-buys-pebble/&#34;&gt;(RIP Pebble)&lt;/a&gt;. I also try to stay flexible as possible with my choices in apps. Pocket Casts is still my go to app for podcasts over Apple Podcasts, but Overcast is an app I’d like to test out soon. Spotify’s family plan is still best for my wife and me since she’s a happy Pixel 3 user, and I know she wouldn’t be a fan of Apple Music on an Android device. I also won’t be getting away from Google’s apps anytime soon with services like YouTube, Google Maps, and Google Drive.&lt;/p&gt;
+
+&lt;p&gt;However, when it comes to basic hardware and software integration, I’ve determined that what Apple offers at this time works best for my workflow. Giving both Android and Windows another try quickly reminded me of the limitations that often come with more flexible platforms, and though there’s still plenty of valid criticism regarding Apple as a company, I have yet to replicate the experience of using Apple’s ecosystem with any other combination of hardware I’ve tried so far. Of course, this is something that could change at any time. Though I’m not jumping to make any other large tech purchases at the moment, maybe I can use this blog post as a reminder when I get that inevitable urge to buy new tech again in the future.&lt;/p&gt;
+
+&lt;p&gt;In the meantime, I’ll be trying to find some good uses for the iPad while reselling all of the other devices mentioned here. My fingers are crossed that the repair process with Razer goes smoothly, &lt;a href=&#34;https://www.reddit.com/r/razer/search?q=support%20experience&amp;amp;restrict_sr=1&#34;&gt;though I have my concerns&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
