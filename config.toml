@@ -42,7 +42,7 @@ paginate = 10
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "1-about"
+        identifier = "about"
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
@@ -50,8 +50,8 @@ paginate = 10
         name = "Instagram"
         url = "https://www.instagram.com/nograsswillgrow/"
       [[languages.en.menu.main]]
-        identifier = "rss"
-        name = "RSS"
+        identifier = "feed"
+        name = "Feed"
         url = "/index.xml"
       [[languages.en.menu.main]]
         identifier = "twitter"
