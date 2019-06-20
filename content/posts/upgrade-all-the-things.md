@@ -1,6 +1,6 @@
 +++
 title = "Upgrade All the Things"
-date = 2019-04-04
+date = 2019-04-04T00:00:00-04:00
 author = "Joshua Grady"
 cover = ""
 tags = ["Apple", "Razer", "Windows", "Android"]
