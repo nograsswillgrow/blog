@@ -13,7 +13,7 @@ paginate = 5
   # "light" or "dark"
   defaultTheme = "light"
   # if you set this to 0, only submenu trigger will be visible
-  showMenuItems = 3
+  showMenuItems = 4
   # Show reading time in minutes for posts
   showReadingTime = false
 
@@ -43,7 +43,7 @@ paginate = 5
 
     [languages.en.menu]
       [[languages.en.menu.main]]
-        identifier = "about"
+        identifier = "1-about"
         name = "About"
         url = "/about"
       [[languages.en.menu.main]]
@@ -51,10 +51,10 @@ paginate = 5
         name = "Instagram"
         url = "https://www.instagram.com/nograsswillgrow/"
       [[languages.en.menu.main]]
-        identifier = "twitter"
-        name = "Twitter"
-        url = "https://twitter.com/nograsswillgrow"
-      [[languages.en.menu.main]]
         identifier = "rss"
         name = "RSS"
         url = "/index.xml"
+      [[languages.en.menu.main]]
+        identifier = "twitter"
+        name = "Twitter"
+        url = "https://twitter.com/nograsswillgrow"
