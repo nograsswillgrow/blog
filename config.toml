@@ -1,10 +1,11 @@
-baseurl = "/"
+baseurl = "https://nograsswillgrow.com/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 5
 
 [author]
     name = "Joshua Grady"
+    email = "joshuagrady@fastmail.com"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
@@ -53,3 +54,7 @@ paginate = 5
         identifier = "twitter"
         name = "Twitter"
         url = "https://twitter.com/nograsswillgrow"
+      [[languages.en.menu.main]]
+        identifier = "rss"
+        name = "RSS"
+        url = "/index.xml"
