@@ -20,7 +20,7 @@
       {{ with $.Site.Author.name }}<author>{{.}}</author>{{end}}
       <guid>{{ .Permalink }}</guid>
       <description>{{ .Summary | html }}</description>
-      <content>{{ if .Params.Cover }}<img src="{{ .Params.Cover | absURL }}" />{{ end }}{{ .Content | html }}</content>
+      <content>{{ if .Params.Cover }}{{ if .Params.UseRelativeCover }}<img src="{{ (printf "%s%s" .Permalink .Params.Cover ) }}" class="post-cover" />{{ else }}<img src="{{ .Params.Cover | absURL }}" class="post-cover" />{{ end }}{{ end }}{{ .Content | html }}</content>
     </item>
     {{ end }}
   </channel>

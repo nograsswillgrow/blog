@@ -2,7 +2,8 @@
 title = "WWDC 2019"
 date = 2019-06-14T20:00:00-04:00
 author = "Joshua Grady"
-cover = "images/wwdc2019.jpg"
+cover = "wwdc-2019.jpg"
+useRelativeCover = true
 tags = ["Apple", "WWDC", "macOS", "iOS"]
 description = "I’m a _long_ shot from being any kind of developer, but I do love to follow the advancements in new features that tech giants implement into their operating systems. As a long-time Android user before moving to iOS a few years ago, I’ve watched Google IO for many years now, but I only casually followed previous WWDC events."
 +++

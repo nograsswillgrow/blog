@@ -10,4 +10,4 @@ I've been using the name **nograsswillgrow** across the Internet for as long as 
 
 I'll probably break this blog regularly since I don't always know what I'm doing.
 
-Powered by [Hugo](https://gohugo.io/) with the [Hello Friend](https://themes.gohugo.io/hugo-theme-hello-friend/) theme created by [panr](https://twitter.com/panr). Hosted via [Netlify](https://www.netlify.com).
+Powered by [Hugo](https://gohugo.io/). [Hello Friend](https://themes.gohugo.io/hugo-theme-hello-friend/) theme created by [panr](https://twitter.com/panr) and _slightly_ tweaked by me. Hosted via [Netlify](https://www.netlify.com).

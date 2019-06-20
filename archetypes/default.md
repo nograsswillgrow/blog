@@ -1,6 +1,9 @@
----
-title: "{{ replace .Name "-" " " | title }}"
-date: {{ .Date }}
-draft: true
----
-
++++
+title = ""
+date = {{ .Date }}
+author = ""
+cover = ""
+useRelativeCover = true
+tags = ["", ""]
+description = ""
++++

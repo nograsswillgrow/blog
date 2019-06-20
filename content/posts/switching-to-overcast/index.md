@@ -19,7 +19,7 @@ Not to my surprise, Overcast is an incredible app, and nearly every issue I was 
 
 ---
 
-<center>![Overcast](/images/overcast.png)
+<center>![Overcast](overcast.png)
 
 _Two of my current favorite podcasts: [AppStories](https://appstories.net) and [Connected](https://www.relay.fm/connected)_</center>
 
