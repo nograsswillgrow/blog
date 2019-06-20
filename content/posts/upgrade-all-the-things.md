@@ -16,7 +16,7 @@ Thanks to a failing battery in my laptop, along with a crack in my iPhone thanks
 
 - 2018 Razer Blade 15 (Advanced)
 - Samsung Galaxy S9 (Unlocked)
-- 9.7-inch iPad (6th gen)
+- 9.7-inch iPad (6th-gen)
 
 Though this was probably overkill in hindsight, I had a plan for each product. If my previously attempted purchases didn’t give it away, I wanted to dabble with PC gaming. My Steam library is pretty large for someone who still has never owned a proper gaming PC, and I wanted to work my way through some of those titles. The Blade 15 would be more than enough power for what I wanted to do, and extra perks like a 144Hz display with thin bezels and a MacBook-esque design won me over. Plus, who doesn’t want RGB on their laptops? With the Galaxy S9, there was definitely more competition. Other options like the Pixel 3 and even the Razer Phone 2 were appealing for different reasons, but unique features like [Samsung Pay](https://www.androidcentral.com/samsung-pay) and Samsung’s new [One UI](https://www.samsung.com/us/apps/one-ui/) were enough for me to give another Samsung device a shot. Finally, I didn’t want to retire from using any Apple products, so I decided to pick up an iPad as well. Sure, it’s not the futuristic new iPad Pro, but it was a perfect way to keep playing with iOS. Plus, I’ll be traveling quite a bit over the upcoming year as my wife finishes up vet school, so the iPad could act as a secondary display while I’m away from my home office.
 
