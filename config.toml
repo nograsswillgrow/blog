@@ -8,7 +8,7 @@ paginate = 10
 
 [params]
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "posts"
+  contentTypeName = "blog"
   # "light" or "dark"
   defaultTheme = "light"
   # if you set this to 0, only submenu trigger will be visible
