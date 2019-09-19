@@ -1,6 +1,5 @@
 +++
 title = "👋🏻"
-type = "about"
 +++
 
 My name is Joshua Grady.

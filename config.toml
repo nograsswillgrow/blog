@@ -2,13 +2,14 @@ baseurl = "https://nograsswillgrow.com/"
 languageCode = "en-us"
 theme = "hello-friend"
 paginate = 10
+rssLimit = 10
 
 [author]
     name = "Joshua Grady"
 
 [params]
   # dir name of your blog content (default is `content/posts`)
-  contentTypeName = "blog"
+  contentTypeName = "posts"
   # "light" or "dark"
   defaultTheme = "light"
   # if you set this to 0, only submenu trigger will be visible
